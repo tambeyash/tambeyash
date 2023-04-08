@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tambeyash
+- 👋 Hi, I’m Yash Tambe
 - 👀 I’m interested in Physics, Data Analytics and Machine learning
 - 🌱 I’m currently M.Sc. Physics at Indian Institute of Technology, Guwahati
 - 💞️ You can view my visualizations on Tableau public [here](https://public.tableau.com/app/profile/yash.tambe)
