@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tambeyash
-- 👀 I’m interested in Physics and Machine learning
+- 👀 I’m interested in Physics, Data Analytics and Machine learning
 - 🌱 I’m currently M.Sc. Physics at Indian Institute of Technology, Guwahati
 <!---
 - 💞️ I’m looking to collaborate on ...
